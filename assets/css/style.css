@@ -1,0 +1,26 @@
+html {
+
+}
+body {
+
+  background-image: url(assets/images/upfeathers.png);
+}
+.portfolioImgs {
+	max-width: 33%;
+} 
+
+.portfolioMain {
+	max-width: 58%;
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+
